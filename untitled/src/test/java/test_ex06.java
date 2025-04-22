@@ -31,5 +31,4 @@ public class test_ex06 {
     public void faixaCinco () {
         Assert.assertEquals("1051.04", exercicio_06.calcularINSS(7510.49).toString());
     }
-
 }
